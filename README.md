@@ -1,4 +1,4 @@
-### Sou Marcos Viana, estudante, programado.
+### Sou Marcos Viana, estudante, programador.
 ### Olá, sou novo por aqui 👋
 
 
