@@ -1,14 +1,16 @@
 <div>
-  <img height="170" align="right" alt="git.marcos" src="https://media.discordapp.net/attachments/1100249036541403148/1100249492084772974/marcos.gif?width=369&height=369">
+  <img height="165" align="right" alt="git.marcos" src="https://media.discordapp.net/attachments/1100249036541403148/1100249492084772974/marcos.gif?width=369&height=369">
 </div>
 
 ### Olá, sou novo por aqui 👋
 ### Sou Marcos Viana, estudante, programador.
+- Estudante de ciência da computação.
+- Instituto Federal Catarinense.
 
 <div style="display: inline_block">
   <a href="https://github.com/marcosvianaap">
-  <img height="170em" alt="" src="https://github-readme-stats.vercel.app/api?username=marcosvianaap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
-  <img height="165em" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvianaap&layout=compact&lang_count=16&theme=dark">
+  <img height="165em" alt="" src="https://github-readme-stats.vercel.app/api?username=marcosvianaap&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
+  <img height="165em" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvianaap&layout=compact&lang_count=16&theme=dark&count_private=true">
 </div>
   
 <div style="display: inline_block"><br>
