@@ -1,4 +1,8 @@
 
+<!--<div>
+  <img height="165" align="right" alt="git.marcos" src="https://media.discordapp.net/attachments/1100249036541403148/1100249492084772974/marcos.gif?width=369&height=369">
+</div>-->
+
 
 ### Olá, sou novo por aqui 👋
 ### Sou Marcos Viana, estudante, programador.
@@ -18,9 +22,4 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-
-<div>
-  <img height="165" align="right" alt="git.marcos" src="https://media.discordapp.net/attachments/1100249036541403148/1100249492084772974/marcos.gif?width=369&height=369">
 </div>
