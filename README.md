@@ -4,7 +4,7 @@
 </div>-->
 
 
-### Olá, sou novo por aqui 👋
+### Olá 👋
 ### Sou Marcos Viana, estudante, programador.
 - Estudante de ciência da computação.
 - Instituto Federal Catarinense.
