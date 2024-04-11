@@ -5,9 +5,7 @@
 
 
 ### Olá 👋
-### Sou Marcos Viana, estudante, programador.
-- Estudante de ciência da computação.
-- Instituto Federal Catarinense.
+### Marcos, estudante, estagiário.
 
 <div style="display: inline_block">
   <a href="https://github.com/marcosvianaap">
