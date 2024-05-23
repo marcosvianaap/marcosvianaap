@@ -5,7 +5,6 @@
 
 
 ### Olá 👋
-### Estudante, estagiário.
 
 <div style="display: inline_block">
   <a href="https://github.com/marcosvianaap">
